@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Maui.eCommerce", "Maui.eCommerce\Maui.eCommerce.csproj", "{917BB041-EE15-4CD4-989B-0BA2B0B9942A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Library.eCommerce", "Library.eCommerce\Library.eCommerce.csproj", "{1CD5D3AE-F8C4-4B22-943D-DD6CD4D0E4F5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{2A56AFCD-488F-4D97-9FBD-67A72389DC8C}"
+	ProjectSection(SolutionItems) = preProject
+		.gitattributes = .gitattributes
+		.gitignore = .gitignore
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spring2025_Samples", "Spring2025_Samples\Spring2025_Samples.csproj", "{816A2ECF-7F82-4E76-AD1C-1100134C8C7E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{917BB041-EE15-4CD4-989B-0BA2B0B9942A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{917BB041-EE15-4CD4-989B-0BA2B0B9942A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{917BB041-EE15-4CD4-989B-0BA2B0B9942A}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{917BB041-EE15-4CD4-989B-0BA2B0B9942A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{917BB041-EE15-4CD4-989B-0BA2B0B9942A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{917BB041-EE15-4CD4-989B-0BA2B0B9942A}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{1CD5D3AE-F8C4-4B22-943D-DD6CD4D0E4F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CD5D3AE-F8C4-4B22-943D-DD6CD4D0E4F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CD5D3AE-F8C4-4B22-943D-DD6CD4D0E4F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CD5D3AE-F8C4-4B22-943D-DD6CD4D0E4F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{816A2ECF-7F82-4E76-AD1C-1100134C8C7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{816A2ECF-7F82-4E76-AD1C-1100134C8C7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{816A2ECF-7F82-4E76-AD1C-1100134C8C7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{816A2ECF-7F82-4E76-AD1C-1100134C8C7E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
